@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my Github Profile!
+Languages: C, Java, Javascript, C#
+Libraries/Frameworks: React, Socket.io, Supabase, JavaFX, JUnit
+Tools: Unity, Git, MySQL, IDEs (IntelliJ, VSCode), NGINX, Node.js, Gradle
+
