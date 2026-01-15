@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Languages: C, Java, Javascript, C#
-Libraries/Frameworks: React, Socket.io, Supabase, JavaFX, JUnit
+Languages: C, Java, Javascript, C# <br>
+Libraries/Frameworks: React, Socket.io, Supabase, JavaFX, JUnit <br>
 Tools: Unity, Git, MySQL, IDEs (IntelliJ, VSCode), NGINX, Node.js, Gradle
 
