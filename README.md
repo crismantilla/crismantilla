@@ -7,9 +7,9 @@ I'm always making new projects to learn tools and develop my skills. Check them 
 🔗 Links: <a href="https://www.linkedin.com/in/cristian-mantilla/">LinkedIn</a><br>
 📫 Feel free to reach out @ crisman2005@gmail.com<br>
 
-###### Since I was little, I saw computers as the magic of the universe, that anything was possible within one.<br>
-###### Till this day, this awe stands as my motivation and drive. I will become knowledgable enough to create anything I want.
-
+###### Since I was little, I saw computers as the magic of the universe, where anything was possible within one.<br>
+###### Till this day, this awe stands as my motivation and drive. I will gather knowledge until I can create anything I want.<br>
+###### Until I become a magician.
 
 
 <!--
