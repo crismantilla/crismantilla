@@ -9,7 +9,7 @@ I'm always making new projects to learn tools and develop my skills. Check them 
 
 ###### Since I was little, I saw computers as the magic of the universe, where anything was possible within one.<br>
 ###### Till this day, this awe stands as my motivation and drive. I will gather knowledge until I can create anything I want.
-####### Until I become a magician.
+###### Until I become a magician.
 
 
 <!--
